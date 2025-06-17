@@ -1,12 +1,5 @@
 # ML-Algorithm-Library
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/AdilShamim8/ML-Algorithm-Library/ci.yml?branch=main)](https://github.com/AdilShamim8/ML-Algorithm-Library/actions)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-green.svg)](https://www.python.org/)  
-[![Contributors](https://img.shields.io/github/contributors/AdilShamim8/ML-Algorithm-Library)](https://github.com/AdilShamim8/ML-Algorithm-Library/graphs/contributors)  
-[![Issues](https://img.shields.io/github/issues/AdilShamim8/ML-Algorithm-Library)](https://github.com/AdilShamim8/ML-Algorithm-Library/issues)  
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)  
-
 > **ML-Algorithm-Library**: A curated collection of classic machine learning algorithms implemented from scratch in Python + NumPy. Designed for clarity, extensibility, and learning—empowering you to inspect, modify, and build on foundational algorithms.
 
 ---
@@ -367,7 +360,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for f
 
 * **Issues & Feature Requests**: Open an issue in this repository.
 * **Discussion**: Use GitHub Discussions (if enabled) or open an issue with a “Discussion” label.
-* **Pull Requests**: Welcome! Follow [Contributing Guidelines](CONTRIBUTING.md).
 * **Maintainer**: Adil Shamim ([@AdilShamim8](https://github.com/AdilShamim8)).
 
 Stay engaged: star the repo ⭐, share feedback, and help others learn by contributing examples or improvements.
