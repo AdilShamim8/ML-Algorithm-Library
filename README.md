@@ -297,13 +297,13 @@ Templates reside under `.github/ISSUE_TEMPLATE.md` and `.github/PULL_REQUEST_TEM
 ### Contributor Recognition
 
 * Contributor list reflected in README via a badge or link to GitHub contributors graph.
-* Acknowledge significant contributions in release notes or acknowledgments section.
+* Acknowledge significant contributions in the release notes or the acknowledgments section.
 
 ---
 
 ## Testing Locally
 
-1. Clone and activate environment:
+1. Clone and activate the environment:
 
    ```bash
    git clone https://github.com/AdilShamim8/ML-Algorithm-Library.git
@@ -338,7 +338,7 @@ Track progress via GitHub Projects or Issues. Possible milestones:
 * **v0.5**: Advanced Methods (Gradient Boosting basics, GMM, Recommendation prototypes)
 * **v1.0**: Stable release with comprehensive tests, documentation, and example notebooks.
 
-Each version tagged with semantic versioning (`v0.x.y`). Release notes summarizing additions, fixes, and any breaking changes.
+Each version is tagged with semantic versioning (`v0.x.y`). Release notes summarizing additions, fixes, and any breaking changes.
 
 ---
 
@@ -362,7 +362,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for f
 * **Discussion**: Use GitHub Discussions (if enabled) or open an issue with a “Discussion” label.
 * **Maintainer**: Adil Shamim ([@AdilShamim8](https://github.com/AdilShamim8)).
 
-Stay engaged: star the repo ⭐, share feedback, and help others learn by contributing examples or improvements.
+Stay engaged: star the Repository ⭐, share feedback, and help others learn by contributing examples or improvements.
 
 ---
 
