@@ -363,8 +363,3 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for f
 * **Maintainer**: Adil Shamim ([@AdilShamim8](https://github.com/AdilShamim8)).
 
 Stay engaged: star the Repository ⭐, share feedback, and help others learn by contributing examples or improvements.
-
----
-
-> “Great things in business are never done by one person. They’re done by a team.”
-> – Inspired by GitHub’s collaborative spirit
